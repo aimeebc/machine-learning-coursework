@@ -1,5 +1,5 @@
 # Machine Learning Coursework
-Here you will find my ipnyb notebooks containing the completed coursework for four Coursera Machine Learning courses I audited. 
+Here you will find my .ipynb notebooks containing the completed coursework for four Coursera Machine Learning courses I audited. 
 
 The courses are:
   * Machine Learning Foundations: A Case Study Approach
